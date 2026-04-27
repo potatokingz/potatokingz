@@ -33,13 +33,14 @@
 <br>[<kbd> ♟️ spudchess.com </kbd>](https://spudchess.com) <br>
 *A potato-themed chess engine and platform.*
 
-<br>
-
-[<kbd> 📱 nfcmods.org </kbd>](https://nfcmods.org) <br>
+<br>[<kbd> 📱 nfcmods.org </kbd>](https://nfcmods.org) <br>
 *A toolkit to modify NFC tags with ease. Host images, text, and smart redirects with zero coding.*
 
 <br>[<kbd> 🐀 pyrat.site </kbd>](https://pyrat.site) <br>
 *A Python-based R.A.T.*
+
+<br>[<kbd> 🤖 potatoking.net/ai </kbd>](https://potatoking.net/ai) <br>
+*AI tools and experiments.*
 
 <br>
 
