@@ -25,20 +25,20 @@
 
 ---
 
-### 🚀 my projects
+### 🚀 projects
 
-<br>[<kbd> 🥔 pytato </kbd>](https://pytato.xyz) <br>
+<br>[<kbd> 🥔 pytato.xyz </kbd>](https://pytato.xyz) <br>
 *A web-based Python IDE and pseudo-OS for writing, executing, and saving code directly in your browser.*
 
-<br>[<kbd> ♟️ spudchess </kbd>](https://spudchess.com) <br>
+<br>[<kbd> ♟️ spudchess.com </kbd>](https://spudchess.com) <br>
 *A potato-themed chess engine and platform.*
 
 <br>
 
-[<kbd> 📱 nfcmods </kbd>](https://nfcmods.org) <br>
+[<kbd> 📱 nfcmods.org </kbd>](https://nfcmods.org) <br>
 *A toolkit to modify NFC tags with ease. Host images, text, and smart redirects with zero coding.*
 
-<br>[<kbd> 🐀 pyrat </kbd>](https://pyrat.site) <br>
+<br>[<kbd> 🐀 pyrat.site </kbd>](https://pyrat.site) <br>
 *A Python-based R.A.T.*
 
 <br>
