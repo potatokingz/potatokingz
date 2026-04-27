@@ -27,12 +27,20 @@
 
 ### 🚀 my projects
 
-🥔 **[pytato](https://pytato.xyz)** — A web-based Python IDE and pseudo-OS for writing, executing, and saving code directly in your browser.
+<br>[<kbd> 🥔 pytato </kbd>](https://pytato.xyz) <br>
+*A web-based Python IDE and pseudo-OS for writing, executing, and saving code directly in your browser.*
 
-♟️ **[spudchess](https://spudchess.com)** — A potato-themed chess engine and platform.
+<br>[<kbd> ♟️ spudchess </kbd>](https://spudchess.com) <br>
+*A potato-themed chess engine and platform.*
 
-📱 **[nfcmods](https://nfcmods.org)** — A toolkit to modify NFC tags with ease. Host images, text, and smart redirects with zero coding.
+<br>
 
-🐀 **[pyrat](https://pyrat.site)** — A Python-based R.A.T.
+[<kbd> 📱 nfcmods </kbd>](https://nfcmods.org) <br>
+*A toolkit to modify NFC tags with ease. Host images, text, and smart redirects with zero coding.*
+
+<br>[<kbd> 🐀 pyrat </kbd>](https://pyrat.site) <br>
+*A Python-based R.A.T.*
+
+<br>
 
 </div>
