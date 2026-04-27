@@ -39,7 +39,7 @@
 <br>[<kbd> 🐀 pyrat.site </kbd>](https://pyrat.site) <br>
 *A Python-based R.A.T.*
 
-<br>[<kbd> 🤖 potato ai </kbd>](https://potatoking.net/ai) <br>
+<br>[<kbd> 🤖 potatoking.net/ai </kbd>](https://potatoking.net/ai) <br>
 *AI tools and experiments.*
 
 <br>
