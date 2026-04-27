@@ -23,4 +23,15 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=potatokingz&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8b949e" width="350" alt="Top Languages" />
 
+---
+
+### 🚀 my projects
+
+| Project | Description | Link |
+| :---: | :--- | :---: |
+| 🥔 **pytato** | A web-based Python IDE and pseudo-OS for writing, executing, and saving code directly in your browser. | [pytato.xyz](https://pytato.xyz) |
+| ♟️ **spudchess** | A potato-themed chess engine and platform. | [spudchess.com](https://spudchess.com) |
+| 📱 **nfcmods** | A toolkit to modify NFC tags with ease. Host images, text, and smart redirects with zero coding. | [nfcmods.org](https://nfcmods.org) |
+| 🐀 **pyrat** | A Python-based R.A.T. | [pyrat.site](https://pyrat.site) |
+
 </div>
