@@ -42,6 +42,9 @@
 <br>[<kbd> 🤖 potatoking.net/ai </kbd>](https://potatoking.net/ai) <br>
 *AI tools and experiments.*
 
+<br>[<kbd> 🛡️ spudcrypt.online </kbd>](https://spudcrypt.online) <br>
+*Encryption and decryption software.*
+
 <br>
 
 </div>
