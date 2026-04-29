@@ -29,27 +29,21 @@
 
 <br>[<kbd> 🥔 pytato.xyz </kbd>](https://pytato.xyz) <br>
 *A web-based Python IDE and pseudo-OS for writing, executing, and saving code directly in your browser.*
-( permanent project )
 
 <br>[<kbd> ♟️ spudchess.com </kbd>](https://spudchess.com) <br>
 *A potato-themed chess engine and platform.*
-( permanent project )
 
 <br>[<kbd> 📱 nfcmods.org </kbd>](https://nfcmods.org) <br>
 *A toolkit to modify NFC tags with ease. Host images, text, and smart redirects with zero coding.*
-( permanent project )
 
 <br>[<kbd> 🐀 pyrat.site </kbd>](https://pyrat.site) <br>
 *A Python-based R.A.T.*
-( permanent project )
 
 <br>[<kbd> 🤖 potatoking.net/ai </kbd>](https://potatoking.net/ai) <br>
 *AI tools and experiments.*
-( permanent project )
 
 <br>[<kbd> 🛡️ spudcrypt.online </kbd>](https://spudcrypt.online) <br>
 *Encryption and decryption software.*
-( temporary project )
 
 <br>
 
