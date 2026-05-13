@@ -21,7 +21,7 @@
 
 ### 📊 languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=potatokingz&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=58A6FF&amp;text_color=8b949e&amp;v=1" width="350" alt="Top Languages" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs?username=potatokingz&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=58A6FF&amp;text_color=8b949e&amp;v=1" width="350" alt="Top Languages" />
 
 ---
 
