@@ -36,7 +36,7 @@
 <br>[<kbd> 📱 nfcmods.org </kbd>](https://nfcmods.org) <br>
 *A toolkit to modify NFC tags with ease. Host images, text, and smart redirects with zero coding.*
 
-<br>[<kbd> 🐀 pyrat.site </kbd>](https://pyrat.site) <br>
+<br>[<kbd> 🐀 pyrat.potatoking.net </kbd>](https://pyrat.potatoking.net) <br>
 *A Python-based R.A.T.*
 
 <br>[<kbd> 🤖 potatoking.net/ai </kbd>](https://potatoking.net/ai) <br>
