@@ -42,7 +42,7 @@
 <br>[<kbd> 🤖 potatoking.net/ai </kbd>](https://potatoking.net/ai) <br>
 *AI tools and experiments.*
 
-<br>[<kbd> 🛡️ spudcrypt.vercel.app </kbd>](https://spudcrypt.potatoking.net) <br>
+<br>[<kbd> 🛡️ spudcrypt.potatoking.net </kbd>](https://spudcrypt.potatoking.net) <br>
 *Encryption and decryption software.*
 
 <br>
