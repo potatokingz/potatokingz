@@ -27,7 +27,7 @@
 
 ### 🚀 projects
 
-<br>[<kbd> 🥔 pytato.xyz </kbd>](https://pytato.xyz) <br>
+<br>[<kbd> 🥔 pytato.potatoking.net </kbd>](https://pytato.potatoking.net) <br>
 *A web-based Python IDE and pseudo-OS for writing, executing, and saving code directly in your browser.*
 
 <br>[<kbd> ♟️ spudchess.com </kbd>](https://spudchess.com) <br>
