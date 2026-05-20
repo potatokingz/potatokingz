@@ -3,7 +3,7 @@
 # Potato King
 
 [![Website](https://img.shields.io/badge/potatoking.net-2EA043?style=for-the-badge&logo=google-chrome&logoColor=white)](https://potatoking.net)
-[![Discord](https://img.shields.io/badge/Discord-Let's_Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1372651813475717293)
+[![Discord](https://img.shields.io/badge/Discord-Lets_Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1372651813475717293)
 
 *i like building cool things :D*
 
